@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mindfulness</string>
+    <string name="day">Day %s</string>
+    <string name="challenge_1">Before going to sleep, write down 3 things you have really appreciated from the day today.</string>
+    <string name="challenge_2">Walk for 10 minutes today, without looking at your phone, focused on your surroundings.</string>
+    <string name="challenge_3">Without any judgement or criticism, count how many times your mind gets distracted today.</string>
+    <string name="challenge_4">Every time your phone vibrates or pings today, pause and follow one breath before looking at it.</string>
+    <string name="challenge_5">Brush your teeth with your non-dominant hand today to help encourage attention.</string>
+    <string name="challenge_6">De-clutter part of your house, or office today, helping the mind to feel calmer and clearer.</string>
+    <string name="challenge_7">Drink a mindful cup of tea or coffee today, free from other distractions, focused on test and smell.</string>
+    <string name="challenge_8">Move email and social media apps to the second page of your phone today.</string>
+    <string name="challenge_9">Notice the sensation as you change posture today from standing to sitting or sitting to standing.</string>
+    <string name="challenge_10">Without forcing it, ask someone how they are today and listen to the reply free from opinion.</string>
+</resources>
