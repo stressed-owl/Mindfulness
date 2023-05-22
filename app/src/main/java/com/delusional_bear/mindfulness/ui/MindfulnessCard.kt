@@ -52,8 +52,8 @@ fun MindfulnessCard(
                 painter = painterResource(id = challenge.challengeImage),
                 contentDescription = stringResource(id = challenge.challengeDescription),
             )
-            if (expanded) MindfulnessChallengeDescriptionText(
-                description = challenge.challengeDescription,
+            if (expanded) MindfulnessText(
+                text = challenge.challengeDescription,
                 modifier = modifier.padding(dimensionResource(id = R.dimen.padding_small))
             )
         }

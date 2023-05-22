@@ -7,12 +7,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 
 @Composable
-fun MindfulnessChallengeDescriptionText(
-    description: Int,
+fun MindfulnessText(
+    text: Int,
     modifier: Modifier = Modifier
 ) {
     Text(
-        text = stringResource(id = description),
+        text = stringResource(id = text),
         style = MaterialTheme.typography.bodyMedium,
         modifier = modifier,
     )
