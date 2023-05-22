@@ -23,12 +23,17 @@ val Typography = Typography(
     ),
     labelLarge = TextStyle(
         fontFamily = ubuntu,
-        fontSize = 22.sp,
-        fontWeight = FontWeight.Bold,
+        fontSize = 17.sp,
+        fontWeight = FontWeight.Normal,
     ),
     bodyMedium = TextStyle(
         fontFamily = ubuntu,
         fontSize = 14.sp,
-        fontWeight = FontWeight.Normal,
+        fontWeight = FontWeight.Medium,
+    ),
+    headlineLarge = TextStyle(
+        fontSize = 19.sp,
+        fontFamily = ubuntu,
+        fontWeight = FontWeight.Medium,
     )
 )
