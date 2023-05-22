@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Mindfulness</string>
     <string name="day">Day %s</string>
+    <string name="affirmation_text">You must remember: \n%s</string>
+    <string name="affirmation_1">EVERYTHING WILL BE FINE</string>
+    <string name="affirmation_2">NEVER GIVE UP AT ANY COST</string>
+    <string name="affirmation_3">FAILURE EQUALS SUCCESS</string>
+    <string name="affirmation_4">YOU ARE THE GREATEST OF ALL TIME</string>
     <string name="challenge_1">Before going to sleep, write down 3 things you have really appreciated from the day today.</string>
     <string name="challenge_2">Walk for 10 minutes today, without looking at your phone, focused on your surroundings.</string>
     <string name="challenge_3">Without any judgement or criticism, count how many times your mind gets distracted today.</string>
@@ -11,4 +16,24 @@
     <string name="challenge_8">Move email and social media apps to the second page of your phone today.</string>
     <string name="challenge_9">Notice the sensation as you change posture today from standing to sitting or sitting to standing.</string>
     <string name="challenge_10">Without forcing it, ask someone how they are today and listen to the reply free from opinion.</string>
+    <string name="challenge_11">Commit to no screen time for 2 hours before bed today, other than playing the sleep exercise.</string>
+    <string name="challenge_12">Pull out your journal or a pen and paper and spend 15 minutes writing about your mindfulness challenge so far.</string>
+    <string name="challenge_13">Be online as little as possible today. If you can, try not to get on your phone or computer at all today and allow yourself the joy of living YOUR life without distractions</string>
+    <string name="challenge_14">Take a walk. Notice everything around you.</string>
+    <string name="challenge_15">Practice empathy towards someone who normally makes you upset.</string>
+    <string name="challenge_16">Pay attention to all your meals today. Eat at the kitchen table. Smell your food. Chew slowly.</string>
+    <string name="challenge_17">Remember: This too shall pass. Everything passes and without mindfulness, the memory of it passes too.</string>
+    <string name="challenge_18">Look for things you don\'t normally look for. You will be amazed what\'s around you that you don\'t normally see.</string>
+    <string name="challenge_19">Make today all about humor. Find funny movies, tell funny jokes, listen to funny people, laugh as much as possible today.</string>
+    <string name="challenge_20">Create something today. A drawing, a piece of writing, a painting, or anything else. Spend some time creating in the moment.</string>
+    <string name="challenge_21">Do something new at home today. You can clean out something, cook something you don\'t normally cook, or anything else.</string>
+    <string name="challenge_22">Spend some time accepting where you are today in life. Allow it all to be OK for now and give yourself permission to stop being captive to wanting more.</string>
+    <string name="challenge_23">Find someone who specializes in mindfulness and follow them. As they put out content, you will learn more about mindfulness and solidify the practice in your life.</string>
+    <string name="challenge_24">Practice paying attention to your intuition today whenever a decision is required. Notice in hindsight how on or off your intuition is.</string>
+    <string name="challenge_25">Find an article talking about why mistakes and failures are good for you. Take it to heart so that you can spend less time focusing on the past.</string>
+    <string name="challenge_26">Take a 5 minute quiet pause between every task today. Allow yourself to be mindful and reset before moving on.</string>
+    <string name="challenge_27">Before doing any task today, ask yourself what is your reason for doing the task and contemplate it for a moment.</string>
+    <string name="challenge_28">Eat when hungry today. Ignore your normal schedule to give yourself the chance to be mindful of your body\'s cues.</string>
+    <string name="challenge_29">Practice active listening today. This means focusing on what the other person is saying and responding in a way that is appropriate.</string>
+    <string name="challenge_30">Find and start reading a mindfulness book or taking a mindfulness course to help you keep up your daily mindful practice</string>
 </resources>
